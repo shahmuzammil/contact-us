@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(8, 199, 8); 
+}
+.con{
+    text-align: center;
+background-color: white;
+border: 3px solid rgba(255, 255, 255, 0.781);
+padding-top: 10px;
+padding-bottom: 20px;
+margin-left: 450px;
+margin-right: 450px;
+margin-top: 125px;
+border-radius: 20%;
+}
+.sum{
+    color: white;
+    background-color: green;
+    text-transform: uppercase;
+    width: 250px;
+    border-radius: 10px;
+    letter-spacing: 3px;
+    font-style: oblique;
+}
+.ko{
+    word-spacing: 5px;
+}
