@@ -1,3 +1,11 @@
 .me{
     position: fixed;
+margin-left: 650px;
+}
+.ae{
+ position: absolute;
+}
+
+.ws{
+    position: relative;
 }
